@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+data/*
+cvat_data/*
+draft.py
+*.pth
